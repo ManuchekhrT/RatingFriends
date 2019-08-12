@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccent1">#E62767</color>
+
+    <color name="statusColor">#26418f</color>
+    <color name="TitleColor">#f4f4f4</color>
+    <color name="SignInButton">#4a76a7</color>
+    <color name="SignColorText">#282828</color>
+    <color name="white">#fff</color>
+
+    <color name="purple_background">#8135f4</color>
+    <color name="purple_navigation_drawer_background">#562a91</color>
+
+    <color name="facebookLogoColor">#3b5998</color>
+
+    <color name="ios_toolbar_background">#babab9</color>
+</resources>

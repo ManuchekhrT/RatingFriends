@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815787306488",
+    "firebase_url": "https://ratingfriends.firebaseio.com",
+    "project_id": "ratingfriends",
+    "storage_bucket": "ratingfriends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815787306488:android:626302bd07f467c1",
+        "android_client_info": {
+          "package_name": "tj.manu.ratingfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815787306488-o0dbpfnoibpi6mhvjh446usi449vsll4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKq6pce7LssWnJAZ2JVmlWzC7LUbT8Mao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815787306488-o0dbpfnoibpi6mhvjh446usi449vsll4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

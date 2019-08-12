@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="tj.manu.ratingfriends">
+
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+            android:allowBackup="true"
+            android:appComponentFactory="whateverString"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme"
+            tools:ignore="GoogleAppIndexingWarning"
+            tools:replace="android:appComponentFactory">
+        <activity
+                android:name=".ui.signIn.SignInActivity"
+                android:label="@string/app_name"
+                android:theme="@style/AppFullScreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity
+                android:name=".ui.signIn.phone.PhoneSignInActivity"
+                android:label="@string/phoneSignInStep1"
+                android:theme="@style/AppFullScreenTheme">
+        </activity>
+
+
+        <activity
+                android:name="tj.manu.ratingfriends.ui.signIn.verificationCode.VerificationCodeActivity"
+                android:label="@string/phoneSignInStep2"
+                android:theme="@style/AppFullScreenTheme">
+        </activity>
+
+        <activity
+                android:name=".MainActivity"
+                android:label="@string/main"
+                android:theme="@style/AppFullScreenTheme">
+        </activity>
+
+
+    </application>
+
+</manifest>

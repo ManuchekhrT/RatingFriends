@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RatingFriends</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_game">Игра</string>
+    <string name="title_friends">Друзья</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="iconSignIn">iconSignIn</string>
+
+    <string name="TitleSignIn">Anonymous Rating</string>
+    <string name="TitleDescSignIn">Remember your friends and loved ones. Rate them anonymously \uD83D\uDE00</string>
+    <string name="FooterDescSignIn">By continuing you agree with our terms and conditions of confidentiality.</string>
+    <string name="sign_InButton">Facebook Sign-In</string>
+    <string name="phone_signInButton">Phone Sign-In</string>
+    <string name="phoneSignInStep1">Phone SignIn</string>
+    <string name="phoneSignInStep2">Verification Code</string>
+    <string name="phone_number">Phone number</string>
+    <string name="next">Next</string>
+    <string name="username_error">Введите телефон корректно</string>
+
+    <string name="config_anim_time">950</string>
+    <string name="main">Home</string>
+    <string name="user_name">Firstname Lastname</string>
+    <string name="logout">logout</string>
+    <string name="_diamond_count">8</string>
+    <string name="_4_6">4/6</string>
+    <string name="shuffle">shuffle</string>
+    <string name="skip">skip</string>
+    <string name="_3_hours_ago">3 hours ago</string>
+    <string name="tursunov_manuchekhr">Tursunov Manuchekhr</string>
+    <string name="label_desc">Wish they\'d call me more...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_phone">938066306</string>
+
+</resources>
